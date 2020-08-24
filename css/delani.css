@@ -41,3 +41,21 @@
 .description p{
     font-size: 15px;
 }
+.services{
+    background-image: url('/images/backgrounds/s_image.jpg');
+    background-size: cover; 
+    /* preserves image's aspect ratio */
+   
+    text-align: center;
+    color: white;
+    
+}
+.services h1{
+    padding-top: 5%;
+    font-size: 30px;
+
+}
+.services p{
+    padding-top:2%;
+    padding-bottom: 5%;
+}
