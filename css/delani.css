@@ -1,0 +1,29 @@
+.container-fluid{
+    /* makes your page span from end to end */
+    margin: 0;
+    padding:0;
+}
+.intro{
+    background-image: url('/images/backgrounds/h_img.jpg');
+    background-size: cover; 
+    /* preserves image's aspect ratio */
+    background-attachment: fixed;
+    /* image will not scroll with the rest of the page */
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+.logo{
+    padding-top:14% ;
+}
+.intro h1{
+    padding-top:3%;
+    font-size: 60px;
+}
+.intro h2{
+    font-size: 50px;
+
+}
+.mouse{
+    padding-bottom:4%;
+}
