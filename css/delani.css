@@ -27,3 +27,17 @@
 .mouse{
     padding-bottom:4%;
 }
+.description{
+    text-align: center;
+   
+    
+}
+.description h1{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top:3%;
+    padding-bottom:1%;
+}
+.description p{
+    font-size: 15px;
+}
