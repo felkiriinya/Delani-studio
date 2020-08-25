@@ -116,3 +116,65 @@
     padding-top:3% ;
     padding-bottom: 2%;
 }
+.contact{
+    background-image:url(/images/backgrounds/c_image.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    margin-top: 3%;
+}
+.ctitle{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 3%;
+}
+input[type=text] {
+    color: white;
+   width: 400px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: solid whitesmoke;
+    background-color: inherit;
+  }
+  input[type=email] {
+    color: white;
+   width: 400px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: solid whitesmoke;
+    background-color: inherit;
+    
+  }
+  #form{
+      padding: 1%;
+      padding-left: 4%;
+      padding-right:1%;
+  }
+  #mess{
+      
+      height: 200px;
+      width: 900px;
+      padding-right: 3%;
+      padding-top: 0px;
+      margin-top: 0px;
+  }
+  #message{
+      padding-right:1px;
+      padding-left: 40px;
+      padding-top: 0px;
+      margin-top: 0px;
+  }
+  ::placeholder{
+      color: white;
+      padding-top: 0px;
+  }
+  input[type=submit]{
+      width: 100%;
+      text-align: center;
+      
+  }
+  #submit{
+      padding-left:350px;
+      padding-top: 3%;
+      padding-bottom: 2%;
+  }
