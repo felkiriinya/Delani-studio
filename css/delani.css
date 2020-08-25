@@ -59,3 +59,29 @@
     padding-top:2%;
     padding-bottom: 5%;
 }
+.development p, .design p, .product p{
+  display: none;
+}
+.whatwedo{
+    text-align: center;
+
+}
+.whatwedo row{
+    padding: 0;
+}
+#title1 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.title{
+    font-weight: bolder;
+}
+.head{
+    font-size: 19px;
+    padding-top: 5%;
+    font-weight: normal;
+}
+.wedo{
+    padding-top: 8%;
+}
