@@ -27,6 +27,7 @@
 .mouse{
     padding-bottom:4%;
 }
+/* ABOUT US STYLING */
 .description{
     text-align: center;
    
@@ -41,6 +42,7 @@
 .description p{
     font-size: 15px;
 }
+/* SERVICES STYLING */
 .services{
     background-image: url('/images/backgrounds/s_image.jpg');
     background-size: cover; 
@@ -59,8 +61,11 @@
     padding-top:2%;
     padding-bottom: 5%;
 }
+/* WHAT WE DO STYLING */
 .development p, .design p, .product p{
   display: none;
+  padding-top: 4%;
+  font-size: 15px;
 }
 .whatwedo{
     text-align: center;
@@ -77,12 +82,13 @@
 .title{
     font-weight: bolder;
 }
-.head{
+
+.head1, .head2, .head3{
     font-size: 19px;
     padding-top: 5%;
-    font-weight: normal;
+    font-weight: bolder;
 }
-.wedo{
+.wedo1, .wedo2, .wedo3{
     padding-top: 8%;
 }
 .row {
