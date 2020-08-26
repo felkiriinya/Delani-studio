@@ -14,3 +14,19 @@ $(document).ready(function(){
         $(".info3").toggle();
     });
 });
+
+//hover effect for portfolio images
+
+// $(document).ready(function(){
+//     $(".project1").hover(function(){
+//         $(".project").show();
+//     })
+
+// })
+$(document).ready(function () { //hover effect for portfolio images
+	$(".view1").hover(function () {
+		$(".name1").show();
+	}, function () {
+		$(".name1").hide();
+	});
+});
