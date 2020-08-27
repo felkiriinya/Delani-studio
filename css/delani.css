@@ -111,6 +111,7 @@
 
 .name1, .name2, .name3, .name4,.name5, .name6, .name7, .name8{
     display: none;
+    background: rgba(0, 0, 0, 0.60);
     
    
 }
@@ -118,30 +119,20 @@
      
     text-transform: uppercase;
     font-weight: bolder;
+    padding-left: 8px;
+    padding-top: 0;
     
-    padding-top: 3%;
-    font-size: 20px;
+    font-size: 30px;
     text-align: left;
     color:white;
-    padding-bottom: 20%;
-    width: 77%;
-    height: 70%; 
+    padding-bottom: 35%;
+    /* width: 103%;
+    height: 70%;  */
     border: 4px solid white;
-    left:13%;
-    top:13%;
-     
-    
-     
+    left:1%;
+    top:13%; 
 
 }
-
-
-
-
-
-    
-
-
 
 .porttitle{
     text-align: center;
