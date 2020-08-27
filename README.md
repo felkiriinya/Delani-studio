@@ -31,5 +31,5 @@ Should you be unable to access my web application, have any recommendations or q
 ## To-do
 1. Validation of email addresses entered
 
-## [License]()
+## [License](https://github.com/felkiriinya/Delani-studio/blob/master/LICENSE)
 MIT (c) 2020 [Felista Kiriinya](https://felkiriinya.github.io/Delani-studio/)
