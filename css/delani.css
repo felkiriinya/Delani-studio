@@ -138,7 +138,7 @@
     padding-bottom: 2%;
 }
 .contact{
-    background-image:url(../images/backgrounds/c_image.jpg);
+    background-image:url("../images/backgrounds/c_image.jpg");
     background-size: cover;
     text-align: center;
     color: white;
