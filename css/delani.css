@@ -104,11 +104,14 @@
 }
 
 
-.col-md-3 img:hover{
-    opacity: 0.5;
-} 
+#hover2:hover{
+    opacity: 0.8;
+
+}
+
 .name1, .name2, .name3, .name4,.name5, .name6, .name7, .name8{
     display: none;
+    
    
 }
 .project{
