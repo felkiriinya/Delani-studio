@@ -4,7 +4,7 @@
     padding:0;
 }
 .intro{
-    background-image: url('/images/backgrounds/h_img.jpg');
+    background-image: url('../images/backgrounds/h_img.jpg');
     background-size: cover; 
     /* preserves image's aspect ratio */
     background-attachment: fixed;
