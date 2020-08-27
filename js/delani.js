@@ -83,7 +83,6 @@ function sendMessage(){
 		alert("Please fill in all fields!")
 	} else {
 		alert("Thank you " + name + "! Your message has been received. We shall get back to you shortly.");
-        document.getElementById("yourform");
-       
+        document.getElementById("yourform");      
 	};
 };

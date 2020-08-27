@@ -47,7 +47,6 @@
     background-image: url('/images/backgrounds/s_image.jpg');
     background-size: cover; 
     /* preserves image's aspect ratio */
-   
     text-align: center;
     color: white;
     
@@ -121,13 +120,10 @@
     font-weight: bolder;
     padding-left: 8px;
     padding-top: 0;
-    
     font-size: 30px;
     text-align: left;
     color:white;
     padding-bottom: 35%;
-    /* width: 103%;
-    height: 70%;  */
     border: 4px solid white;
     left:1%;
     top:13%; 
@@ -176,7 +172,6 @@ input[type=text] {
       padding-right:1%;
   }
   #mess{
-      
       height: 200px;
       width: 900px;
       padding-right: 3%;
@@ -184,6 +179,7 @@ input[type=text] {
       margin-top: 0px;
   }
   #message{
+      
       padding-right:1px;
       padding-left: 40px;
       padding-top: 0px;
