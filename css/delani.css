@@ -2,6 +2,7 @@
     /* makes your page span from end to end */
     margin: 0;
     padding:0;
+    overflow-x: hidden;
 }
 .intro{
     background-image: url("../images/backgrounds/h_img.jpg");
