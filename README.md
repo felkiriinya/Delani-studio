@@ -18,7 +18,7 @@ To make advancements/modifications, follow these steps:
 - Create a Pull Request 
 
 ## Setup/Use requirements
-- Visit the website at 
+- Visit the website at https://felkiriinya.github.io/Delani-studio/
 - Click on the What We Do icons to view a short description of the services we offer
 - Reach out to us by sending us an email
 
@@ -31,5 +31,5 @@ Should you be unable to access my web application, have any recommendations or q
 ## To-do
 1. Validation of email addresses entered
 
-## [License](https://github.com/lornakamau/delani-studio/blob/master/LICENSE.md)
-MIT (c) 2020 [Felista Kiriinya](https://github.com/lornakamau)
+## [License]()
+MIT (c) 2020 [Felista Kiriinya](https://felkiriinya.github.io/Delani-studio/)
